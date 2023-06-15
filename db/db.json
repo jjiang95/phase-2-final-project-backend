@@ -1,15 +1,6 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "The Golden Compass",
-      "author": "Phillip Pullman",
-      "image": "https://m.media-amazon.com/images/I/A1gACmqyxSL._AC_UF1000,1000_QL80_.jpg",
-      "rating": 5,
-      "genre": "fantasy",
-      "haveRead": true
-    },
-    {
       "id": 4,
       "title": "Twilight",
       "author": "Stephanie Meyer",
@@ -125,6 +116,15 @@
       "author": "Madeline Miller",
       "haveRead": true,
       "id": 19
+    },
+    {
+      "title": "The Golden Compass",
+      "image": "https://pictures.abebooks.com/inventory/31244904417.jpg",
+      "rating": 5,
+      "genre": "fantasy",
+      "author": "Phillip Pullman",
+      "haveRead": true,
+      "id": 20
     }
   ]
 }
